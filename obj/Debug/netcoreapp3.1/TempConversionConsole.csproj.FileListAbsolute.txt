@@ -1,0 +1,16 @@
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.exe
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.deps.json
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.runtimeconfig.json
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.runtimeconfig.dev.json
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.dll
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionConsole.pdb
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionClass.dll
+C:\Users\shadsluiter\source\repos\TempConversionConsole\bin\Debug\netcoreapp3.1\TempConversionClass.pdb
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.csprojAssemblyReference.cache
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.AssemblyInfoInputs.cache
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.AssemblyInfo.cs
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.csproj.CoreCompileInputs.cache
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.csproj.CopyComplete
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.dll
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.pdb
+C:\Users\shadsluiter\source\repos\TempConversionConsole\obj\Debug\netcoreapp3.1\TempConversionConsole.genruntimeconfig.cache
